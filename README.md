@@ -59,9 +59,7 @@ The project is organized into the following folders:
 
 We use the silhouette score and other evaluation metrics to find the optimal number of clusters for the K-means algorithm. The process involves iteratively evaluating clustering performance for different cluster numbers.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
