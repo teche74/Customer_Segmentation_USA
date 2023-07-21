@@ -44,8 +44,6 @@ The project is organized into the following folders:
 
 1. Clone the repository: `git clone https://github.com/teche74/Customer_Segmentation_USA.git`
 
-2. Install the required dependencies: `pip install -r requirements.txt`
-
 3. Execute the notebooks or scripts to perform data preprocessing, clustering, and visualization.
 
 ## Usage
