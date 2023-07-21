@@ -38,7 +38,7 @@ The project is organized into the following folders:
 
 - `us_data`: Contains the dataset used for the analysis.
 
-- `Customer_segmentation.ipynb`: Jupyter notebooks for data preprocessing, clustering, and PCA.
+- `Segmentation.ipynb`: Jupyter notebooks for data preprocessing, clustering, and PCA.
 
   
 ## Installation
