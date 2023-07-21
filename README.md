@@ -1,4 +1,5 @@
-# Customer Segmentation of USA
+# Customer Segmentation of USA : Understanding K-Means and PCA
+
 
 ![image](https://github.com/teche74/Customer_Segmentation_USA/assets/129526047/8f26dae0-1600-4981-8a9a-d7eb53617b6d)
 
