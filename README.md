@@ -49,7 +49,7 @@ The project is organized into the following folders:
 
 ## Usage
 
-1. Access the dataset (provide the link or mention how to access it).
+1. Access the dataset .
 
 2. Follow the installation instructions to set up the environment and dependencies.
 
